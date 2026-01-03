@@ -43,7 +43,7 @@
   * Ventaja: Control granular por aplicación.
   * Limitación: No libera completamente memoria hasta un undeploy.
   * Ejemplo del proceso:
-    * Accedemos a la aplicación Manager, iniciamos sesión si no lo hemos hecho ya y pulsamos en el botón "Parar" de nuestra aplicación.
+    * Accedemos a la aplicación Manager e iniciamos sesión si no lo hemos hecho ya y pulsamos en el botón "Parar" de nuestra aplicación.
       ![Aplicación Manager](https://github.com/JavierMoralesSimon/tomcatHerramientasAdministracion/blob/main/Capturas/2.1.png)
       ![Estado tras dar a "Parar" en la aplicación](https://github.com/JavierMoralesSimon/tomcatHerramientasAdministracion/blob/main/Capturas/2.2.png)
     * Si accedemos al enlace de nuestra página podemos observar que no funciona.
