@@ -46,7 +46,7 @@
     * Accedemos a la aplicación Manager e iniciamos sesión si no lo hemos hecho ya y pulsamos en el botón "Parar" de nuestra aplicación.
       ![Aplicación Manager](https://github.com/JavierMoralesSimon/tomcatHerramientasAdministracion/blob/main/Capturas/2.1.png)
       ![Estado tras dar a "Parar" en la aplicación](https://github.com/JavierMoralesSimon/tomcatHerramientasAdministracion/blob/main/Capturas/2.2.png)
-    * Si accedemos al enlace de nuestra página podemos observar que no funciona.
+    * Si accedemos al enlace de nuestra página podremos observar que no funciona.
       ![Acceso fallido a la página a través de su enlace](https://github.com/JavierMoralesSimon/tomcatHerramientasAdministracion/blob/main/Capturas/2.3.png)
     * Si damos al botón "Arrancar" y recargamos el enlace de nuestra página, esta volverá a funcionar.
       ![Estado tras dar a "Apagar" en la aplicación](https://github.com/JavierMoralesSimon/tomcatHerramientasAdministracion/blob/main/Capturas/2.4.png)
